@@ -1,4 +1,4 @@
-#InternPortal
+# InternPortal
 
 A modern and responsive fundraising dashboard built with **Next.js**. This platform allows users to view fundraising stats, unlock achievements, access leaderboards, and track referral progress in a sleek and intuitive UI.
 
@@ -64,4 +64,5 @@ If you like this project or have any questions:
 - [Email](mailto:santhoshcharanthu455@gmail.com)
 
 ---
+
 
